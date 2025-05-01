@@ -121,7 +121,9 @@ o	Combined SQL findings with dynamic charts for easier storytelling.
 ________________________________________
 
 📁 Project Structure
+
 project-folder/
+
 ├── schema.sql         # Database schema and sample inserts
 
 ├── queries.sql        # SQL logic and analytical queries
